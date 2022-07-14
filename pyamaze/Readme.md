@@ -8,7 +8,6 @@ Attempt to provide solution to the famous imbroglio problem using
 
 ![Screen](Screens/1.jpg)
 ![Screen](Screens/2.jpg)
-![Screen](Screens/3.jpg)
 
 ## Technology Stack
 
@@ -18,12 +17,5 @@ Attempt to provide solution to the famous imbroglio problem using
 - Artificial Intelligence
 - Non Heuristics
 
-## Updates
-- Version2.6(Build): Game Loop Disabled. Game Over Concept Invoked
-- Version2.7(Build): Game Over Concept Improved
-- Version2.8(Build): Game Over Concept Improved and Graphics was Revamped
-- Version2.9(Build): Welcome Screen Invoked
-- Version2.10(FinalBuild): Audio Added
-
 ## Token
-![](Demo/Demonstration-Ophidia.gif)
+![](Demo/Demo.gif)
