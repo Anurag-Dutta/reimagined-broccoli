@@ -38,7 +38,7 @@ def DFS(m):
         fwdpath[dfspath[cell]] = cell
         cell = dfspath[cell]
     return fwdpath
-m = maze(100, 100)
+m = maze(20, 20)
 m.CreateMaze()
 path = DFS(m)
 a = agent(m, filled = True, footprints=True)
