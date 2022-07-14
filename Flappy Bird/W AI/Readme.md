@@ -26,5 +26,4 @@ Implemented the NeuroEvolution of Augmenting Topologies (NEAT) Generic Algorithm
 - Physics
 
 ## Token
-[![Demo_FlappyBird_AI]({![image](https://user-images.githubusercontent.com/85444955/179021951-a428fbbb-8c7e-4f7d-a743-ac45aa8e9fdd.png)
-})]({https://youtu.be/VRZQsZOxjdM} "Demo_FlappyBird_AI")
+[![Demo_FlappyBird_AI]({![image](https://github.com/Anurag-Dutta/reimagined-broccoli/blob/main/Flappy%20Bird/W%20AI/Screens/YT.png)})]({https://youtu.be/VRZQsZOxjdM} "Demo_FlappyBird_AI")
