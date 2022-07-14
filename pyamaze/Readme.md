@@ -1,8 +1,8 @@
-# Ophidia - The Game
+# Vanquish the Encumbrance
 
-A Single Player Locomotion based game controllable using 
-- Mouse
-- Keyboard
+Attempt to provide solution to the famous imbroglio problem using 
+- Heuristic Algorithm: A Star (A*)
+- Non - Heuristic Algorithms: Depth - First - Search (DFS), Breadth - First - Search (BFS)
 
 ## Screens
 
@@ -13,7 +13,10 @@ A Single Player Locomotion based game controllable using
 ## Technology Stack
 
 - Python
-- PyGame
+- Pyamaze
+- Tkinter
+- Artificial Intelligence
+- Non Heuristics
 
 ## Updates
 - Version2.6(Build): Game Loop Disabled. Game Over Concept Invoked
